@@ -1,16 +1,11 @@
-### Hi there 👋
+<h1 align = "center"> @Murdered </h1>
 
-<!--
-**cosmcy/cosmcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center"> <img src = "https://i.pinimg.com/originals/dd/98/70/dd98705d70de2a8eef39d650591dde15.gif" /> </p>
+<p align = "center">  
+  <img src = "https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt = "fax" width = "1000" height = "1">
+</p>
+<p align = "center"> discord: mlirus#0002 <br/>
+<p align = "center">  
+  <img src = "https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt = "fax" width = "1000" height = "1">
+</p>  
+<p align = "center"> <img src = "https://komarev.com/ghpvc/?username=Imaoo&label=views&color=0e75b6&style=flat" alt = "Imaoo" /> </p>
